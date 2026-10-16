@@ -83,4 +83,4 @@ fintech_figma/
 - Palette: maroon `#890C25`, dark `#351321`, cream `#FAF7F2`, gold `#E9BE72`, border `#E7DFDA`
 - Source syntax verification: passed via TypeScript parser on App, PortalModules and main; internal route references verified.
 - **Full `npm install` + Vite production build could not be run in the authoring environment** because the npm registry is unreachable there. On a Windows machine with internet, run the exact commands above to install and build, and report any console error for a fix.
-"# Prathyusha_FinTech_Complete_Portal_React_Frontend-full-" 
+
